@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Abu Mushonnip</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/mushonnip">Abu Mushonnip</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 Software Engineering Bachelor of Science Candidate @ 🐦 <b>State Polytechnic of Indramayu</b> 」<br>
