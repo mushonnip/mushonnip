@@ -78,9 +78,27 @@
   </samp>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
-   <p align="center">
+<!--    <p align="center"> -->
      <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mushonnip&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img>
+     <table>
+   <td width="40%" valign="top">
+    <h3 align="center"> GitHub Stats<h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mushonnip&theme=monokai&column=7&no-frame=true" />
+    </p>
+   </td>
+   <td width="40%" valign="top">
+    <h3 align="center"> Most used languages</h3>
+     <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushonnip&theme=monokai&column=7&no-frame=true"/>
+     </p>
+  </td>
+</table>
+     
+     
+  
+  
+  
   </samp>
   </p>
 </details>
