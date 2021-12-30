@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/mushonnip">Abu Mushonnip</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Software Engineering Bachelor of Science Candidate @ 🐦 <b>State Polytechnic of Indramayu</b> 」<br>
+    「 Software Engineering Bachelor of Science Candidate @ <b><a target="_blank" href="https://github.com/mushonnip">Politeknik Negeri Indramayu</a></b> 」<br>
   </samp>
 </p>
   <samp>
@@ -63,9 +63,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="./img/vue.svg" width="48" height="48" alt="VUE.JS" />
+        <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Vue JS
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#" >
@@ -106,8 +106,8 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br><br>
-    <a href="https://twitter.com/AMushonnip"><img src="https://img.icons8.com/color/50/000000/twitter-circled.png" width="48"></a>
-    <a href="https://linkedin.com/in/abu-mushonnip"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48"></a>
+    <a href="https://twitter.com/mushonnip_abu"><img src="https://img.icons8.com/color/50/000000/twitter-circled.png" width="48"></a>
+    <a href="https://linkedin.com/in/mushonnip"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48"></a>
     <br><br>
     <a href="https://trakteer.id/mushonnip/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
   </p>
