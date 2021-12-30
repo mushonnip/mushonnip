@@ -1,7 +1,7 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/mushonnip">Abu Mushonnip</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://mushonnip.tech">Abu Mushonnip</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Software Engineering Bachelor of Science Candidate @ <b><a target="_blank" href="https://github.com/mushonnip">Politeknik Negeri Indramayu</a></b> 」<br>
+    「 Software Engineering Bachelor of Science Candidate @ <b><a target="_blank" href="https://polindra.ac.id/">Politeknik Negeri Indramayu</a></b> 」<br>
   </samp>
 </p>
   <samp>
