@@ -36,6 +36,25 @@
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-343434?style=flat&logo=intellij%20idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 
+<details align="center">
+   <summary>════ Stats ════</summary>
+<!--    <p align="center"> -->
+     <br>
+     <table>
+   <td width="40%" valign="top">
+    <h3 align="center"> GitHub Stats<h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mushonnip&theme=monokai&column=7&no-frame=true" />
+    </p>
+   </td>
+   <td width="40%" valign="top">
+    <h3 align="center"> Most used languages</h3>
+     <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushonnip&theme=monokai&column=7&no-frame=true"/>
+     </p>
+  </td>
+</table>
+
   </samp>
   </p>
 </details>
