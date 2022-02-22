@@ -12,7 +12,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/specs.en.html)
-[![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)](https://standardjs.com/)
+[![JS](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)](https://standardjs.com/)
 [![TS](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -22,7 +22,7 @@
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=white)](https://djangoproject.com/)
-[![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Vue js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-003545?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Chakra UI](https://img.shields.io/badge/Chakra%20UI-009688?style=flat&logo=chakraui&logoColor=white)](https://research.google.com/colaboratory/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
