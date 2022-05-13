@@ -1,7 +1,8 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://mushonnip.tech">Abu Mushonnip</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Software Engineering Bachelor of Science Candidate @ <b><a target="_blank" href="https://polindra.ac.id/">Politeknik Negeri Indramayu</a></b> 」<br>
+    Self-proclaimed engineer who specialize in back-end development
+    <br>
   </samp>
 </p>
   <samp>
@@ -12,7 +13,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/specs.en.html)
-[![JS](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)](https://standardjs.com/)
+[![JS](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white)](https://standardjs.com/)
 [![TS](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -36,21 +37,18 @@
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-343434?style=flat&logo=intellij%20idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 
-<details align="center">
+<details open align="center">
    <summary>════ Stats ════</summary>
-<!--    <p align="center"> -->
      <br>
      <table>
    <td width="40%" valign="top">
-    <h3 align="center"> GitHub Stats<h3>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mushonnip&theme=monokai&column=7&no-frame=true" />
+       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushonnip&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </p>
    </td>
    <td width="40%" valign="top">
-    <h3 align="center"> Most used languages</h3>
      <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushonnip&theme=monokai&column=7&no-frame=true"/>
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mushonnip&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
      </p>
   </td>
 </table>
@@ -62,9 +60,6 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br><br>
-    <a href="https://twitter.com/mushonnip_abu"><img src="https://img.icons8.com/color/50/000000/twitter-circled.png" width="48"></a>
-    <a href="https://linkedin.com/in/mushonnip"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48"></a>
-    <br><br>
-    <a href="https://trakteer.id/mushonnip/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
+    <a href="https://trakteer.id/mushonnip/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" style="border:0px;height:40px;" alt="Support Me" height="40"></a>
   </p>
 </samp>
