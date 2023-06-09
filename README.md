@@ -7,7 +7,7 @@
 </p>
 <samp>
   
-- 🔭 Currently working as a Software Enginner
+- Public Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushonnip&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mushonnip&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mushonnip&theme=transparent)
